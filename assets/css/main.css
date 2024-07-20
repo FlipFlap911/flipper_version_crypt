@@ -14441,3 +14441,19 @@ abbr[title] {
 }
 
 /*# sourceMappingURL=main.css.map */
+
+.banner {
+  background-color: #ffcc00;
+  color: #000;
+  text-align: center;
+  padding: 10px 0;
+  font-size: 18px;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 1000;
+}
+
+.banner strong {
+  color: #d90000;
+}
