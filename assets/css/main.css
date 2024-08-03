@@ -11535,8 +11535,8 @@ blockquote span::before {
   display: flex;
   align-items: center;
   flex-direction: column;
-  margin: 1rem;
-padding: 10px;
+  margin: 0rem;
+padding: 0px;
 }
 
 .product-details .product-option .product-row .thm-btn {
@@ -13267,7 +13267,7 @@ abbr[title] {
   -o-border-radius: 5px;
   font-size: 12px;
   height: 48px;
-  width: 200px;
+  width: 240px;
 }
 .add-to-cart-btn .thm-btn span {
   color: var(--color-black);
